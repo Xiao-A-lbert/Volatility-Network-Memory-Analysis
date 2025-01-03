@@ -1,4 +1,4 @@
-# Volatility: Network Memory Analysis# Volatility: Memory Analysis
+# Volatility: Network Memory Analysis
 
 <h2>Description</h2>
 In this Digital Forensics task, I used volatility to run a netstat scan against a windows 10 memory dump to enrumerate a suspicious svchost network connection.   
